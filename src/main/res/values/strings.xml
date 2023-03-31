@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tec</string>
+    <string name="BotonBIENVENIDOSALITR">BIENVENIDOS AL ITR</string>
+    <string name="tv1">La Guia Para tu Futuro</string>
+    <string name="BotonANTERIOR">Anterior</string>
+    <string name="tv2">La Guia Para tu Futuro</string>
+    <string name="BotonREGRESAR">Anterior</string>
+    <string name="tv3">OBJETIVOS DEL ITR</string>
+    <string name="BotonOBJETIVOSDELITR">OBJETIVOS DEL ITR</string>
+    <string name="BotonANTES">Anterior</string>
+    <string name="tv4">UBICACION DEL ITR</string>
+</resources>
